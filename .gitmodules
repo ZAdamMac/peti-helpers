@@ -1,3 +1,4 @@
 [submodule "fontedit"]
 	path = fontedit
 	url = git@github.com:ZAdamMac/fontedit.git
+	branch = master
