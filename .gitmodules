@@ -6,3 +6,6 @@
 	path = mlcd-hla
 	url = git@github.com:ZAdamMac/sharp-mlcd-spi-hla.git
 	branch = main
+[submodule "sharp-mlcd-spi-hla"]
+	path = sharp-mlcd-spi-hla
+	url = git@github.com:ZAdamMac/sharp-mlcd-spi-hla.git
