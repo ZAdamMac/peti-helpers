@@ -2,3 +2,7 @@
 	path = fontedit
 	url = git@github.com:ZAdamMac/fontedit.git
 	branch = master
+[submodule "mlcd-hla"]
+	path = mlcd-hla
+	url = git@github.com:ZAdamMac/sharp-mlcd-spi-hla.git
+	branch = main
